@@ -1,1 +1,7 @@
-# previous-express
+# Palindrome Express
+
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
