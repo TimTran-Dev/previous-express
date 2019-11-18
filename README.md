@@ -1,10 +1,12 @@
-# Palindrome Web APP Side Project
+# Palindrome Web APP Project
 
 
 ### Goal: 
 
 A Web App that allows users to input a word into the input. When they submit the word, it will return either true or false depending on if the word is a palindrome or not.
 
+
+![alt-text](https://github.com/TimTran-Dev/previous-express/blob/master/palindrome%20image.png)
 
 ### How it's Made:
 
